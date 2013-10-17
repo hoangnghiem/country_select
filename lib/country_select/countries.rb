@@ -218,7 +218,7 @@ module CountrySelect
     "se" => "Sweden",
     "ch" => "Switzerland",
     "sy" => "Syrian Arab Republic",
-    "tw" => "Taiwan, Province of China",
+    "tw" => "Taiwan",
     "tj" => "Tajikistan",
     "tz" => "Tanzania, United Republic of",
     "th" => "Thailand",
